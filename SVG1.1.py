@@ -1,6 +1,5 @@
-import difflib
 usrvill= input("Enter villager: ")
-usrrea= input("Enter response: ")
+usrrea= input("Enter reaction: ")
 
 if usrvill == "Abigail":
 	if usrrea == "Loves":
