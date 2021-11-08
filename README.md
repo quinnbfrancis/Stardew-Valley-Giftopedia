@@ -1,9 +1,17 @@
 # Stardew-Valley-Giftopedia
 Quick and easy script to figure out the tastes of every giftable villager in Stardew Valley
-Simple as inputting the name of the villager you'd like to gift and then inputting which reaction you're after
-(e.g.
+It's as simple as inputting the name of the villager you'd like to gift and then inputting which reaction you're after
+i.e. Loves
+, Likes
+, Neutral
+, Dislikes 
+, Hates 
+
+
+e.g.
 Enter Villager: Pam
-Enter response: Loved
+
+Enter reaction: Loves
 
 Your Output:
 
