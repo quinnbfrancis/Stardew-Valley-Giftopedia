@@ -7,7 +7,7 @@ Enter response: Loved
 
 Your Output:
 
-      Beer
+     		 	Beer
 			Glazed Yams
 			Golden Pumpkin
 			Magic Rock Candy
