@@ -6,21 +6,36 @@ Enter Villager: Pam
 Enter response: Loved
 
 Your Output:
+
 			Beer
+			
 			Glazed Yams
+			
 			Golden Pumpkin
+			
 			Magic Rock Candy
+			
 			Mead
+			
 			Pale Ale
+			
 			Parsnip
+			
 			Parsnip Soup
+			
 			Pearl
+			
 			Pina Colada
+			
 			Prismatic Shard
+			
 			Rabbit's Foot
       
       
+      
+      /*
       Still To Do: Input Likes, Neutral, Dislike and Hates for Villagers 
       ETA a week or so as of 8 Nov 21.
       
       You are free to do anything and everything with the code :)
+      */
