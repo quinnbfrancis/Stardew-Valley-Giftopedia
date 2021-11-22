@@ -1,9 +1,5 @@
 import difflib
 
-usrvill = input("Enter villager: ")
-usrrea = input("Enter response: ")
-
-
 villagers = {
     "Abigail": {
         "Loves": [
@@ -43,9 +39,21 @@ villagers = {
 }
 
 
+usrvill = input("Enter villager: ")
+usrrea = input("Enter response: ")
+
 def output():
+    if not villagers.get(usrvill):
+        print(f"{usrvill} is not a valid villager, rip...")
+        return
+
+    if not villagers[usrvill].get(usrrea):
+        print(f"{usrrea} is not a valid reaction? hello??!")
+        return
+
     for item in villagers[usrvill][usrrea]:
         print(item)
+        return
 
 
 output()
